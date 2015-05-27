@@ -1,0 +1,32 @@
+/* This is a CSS comment.*/
+
+.description {
+  color: red;
+}
+
+h1 {
+  background-color: rgb(51, 190, 190);
+  color: black;
+}
+
+h2 {
+  background-color: rgb(25, 126, 132);
+  color: purple;
+}
+
+.image {
+  max-width: 460px;
+}
+
+.screenshot {
+  margin-right: 23em;
+  margin-left: 22em;
+}
+
+.description {
+  max-width: 705px;
+}
+/*
+Comments are only to help PEOPLE read a code file. The
+computer ignores them.
+*/
